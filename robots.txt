@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cyoox.github.io/Jtg/sitemap.Jtg.gz
